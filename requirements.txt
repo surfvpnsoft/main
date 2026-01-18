@@ -1,0 +1,4 @@
+python-telegram-bot>=21.0
+httpx>=0.25.0
+googletrans==4.0.0-rc1
+python-dotenv>=1.0.0
