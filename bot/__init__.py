@@ -1,0 +1,1 @@
+"""Telegram Horoscope Bot package."""
